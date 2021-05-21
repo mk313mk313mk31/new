@@ -7,7 +7,7 @@ class myclass():
   def method1(self):
     print("ali")
   def method2(self,somestring):
-    print("salam"+" "+somestring)
+    print("sala"+" "+somestring)
   
 
 def main():
